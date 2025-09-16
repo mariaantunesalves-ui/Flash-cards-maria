@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Biologia',
-    'Qual o único alimento quenunca estraga?',
+    'Qual o único alimento que nunca estraga?',
     'Mel'
 )
 
