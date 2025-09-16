@@ -15,5 +15,4 @@ function criaCartao(categoria, pergunta, resposta) {
     </div>`
 
     container.appendChild(cartao)
-    
 }
