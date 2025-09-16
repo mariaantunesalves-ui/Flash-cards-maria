@@ -93,3 +93,4 @@ criaCartao(
     'Qual o país com a maior expectativa de vida do mundo?',
     'Mônaco'
 )
+
