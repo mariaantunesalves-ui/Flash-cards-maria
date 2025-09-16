@@ -51,3 +51,45 @@ criaCartao(
     'Qual a estátua mais pesada do mundo?',
     'Estátua da liberdade'
 )
+
+criaCartao(
+    'Biologia',
+    'Qual o menor osso do corpo humano?',
+    'Estribo'
+)
+
+criaCartao(
+    'Astrologia',
+    'Qual o planeta mais quente do sistema solar?',
+    'Vênus'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual o país com a maior área territorial do mundo?',
+    'Rússia'
+)
+
+criaCartao(
+    'Geografia',
+    'Em que local fica o deserto mais seco do mundo?',
+    'América do Sul'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual o menor país do mundo?',
+    'Vaticano'
+)
+
+criaCartao(
+    'Curiosidades',
+    'O que é mais antigo: a estrada ou roda?',
+    'Roda'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual o país com a maior expectativa de vida do mundo?',
+    'Mônaco'
+)
