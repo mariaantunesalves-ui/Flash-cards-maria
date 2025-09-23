@@ -44,10 +44,11 @@ body{
     backface-visibility: hidden;
 }
 
-.cartao__conteudo{
+.cartao__conteudo p {
     margin-top: 1rem;
     padding: 2rem;
     margin-top: 4rem;
+    font-size: 3vw;
 }
 
 .cartao__conteudo__pergunta p{
@@ -70,6 +71,7 @@ body{
     position:absolute;
     height:100%;
     width: 100%;
+    box-sizing: border-box;
 }
 
 .cartao__conteudo__resposta {
