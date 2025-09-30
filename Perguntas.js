@@ -25,7 +25,7 @@ criaCartao(
 criaCartao(
     'Curiosidades',
     'Qual o artefato mais caro que já foi vendido?',
-    'Obra de arte “Salvator Mundi” do artista Leonardo da Vinci'
+    'Obra de arte “Salvator Mundi”'
 )
 
 criaCartao(
