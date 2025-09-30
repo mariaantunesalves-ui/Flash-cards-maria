@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: bisque;
+    background-color: rgb(255, 0, 0);
     font-family: "Bai Jamjuree", sans-serif;
 }
 
@@ -83,8 +83,8 @@ body{
 }
 
 footer{
-    background-color: black;
-    color: white;
+    background-color: rgb(89, 0, 255);
+    color: rgb(226, 0, 0);
     bottom: 0;
     position: fixed;
     width: 100%;
